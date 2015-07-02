@@ -2,6 +2,9 @@
 
 - - -
 
+######[slides](http://cvdlab.github.io/showdown/?md=https://github.com/DiegoMariottini/cg2015-final-project/blob/master/docs/project.md)		
+
+
 *Progetto di grafica computazionale* 	
 
 *Diego Mariottini*	
