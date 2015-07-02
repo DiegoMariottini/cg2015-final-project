@@ -138,8 +138,7 @@ Le pareti di questa area devono essere piombate per evitare la propagazione dei 
 
 - - -
 
-## *Sezione raggi x: Seconda sala*
-
+## *Sezione raggi x: Seconda sala (1/2)*
 è composta da:
 
  * Piccola sala per far lasciare gli indumenti del paziente con apperndiabiti e sedia
@@ -150,6 +149,11 @@ Le pareti di questa area devono essere piombate per evitare la propagazione dei 
  
  * Se CR abbiamo laser a cassette
  
+
+
+- - -
+
+## *Sezione raggi x: Seconda sala (2/2)*
  * Ortopantomografo telecomandato(OPT)
  
  * Radiografia del cranio(telecranio): con apposito strumento
