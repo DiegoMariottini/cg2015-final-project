@@ -263,7 +263,7 @@ Deve essereci una sala di referto medico per elaborazione dei dati da parte del 
 
 - - -
 
-## *Reparto risonanza magnetica*
+## *Reparto risonanza magnetica (1/2)*
 Questo sotto reparto è composto da una 
 
 sala assenso: composta da Scrivania, persona per far entrare il paziente nelle stanze della risonanza magnetica, pc e telefono. 
@@ -277,7 +277,8 @@ Deposito:per materiale vario:armadi vari,carta,gadolinio e secchio
 
 - - -
 
-## *Reparto risonanza magnetica*
+## *Reparto risonanza magnetica (2/2)*
+
 Sala della risonanza magnetica: risonanza magnetica più i vari accessori che servono a fare i vari esami, quindi più armadietti e iniettore per mdc
 
 Console: Scrivania del TSRM con pc e monitor per l'esaminatore dell'esame, parete a vetro per vedere il paziente,microfono e telecamera per comunicare e secchio
