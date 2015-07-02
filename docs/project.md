@@ -244,9 +244,10 @@ All'interno ci devono essere:
 In ognuna di queste stanze ci deve essere un bagno
 
 
+
 - - -
 
-# *Conclusioni*
+# *Conclusioni di questi prime stanze trattate*
 Ogni sottoreparto deve avere un posto o luogo in cui il paziente è in attesa della propria analisi da effettuare o effettuata(aspettare i risultati).
 
 Ogni risultato non ritirato deve restare in un archivio.
@@ -259,9 +260,59 @@ Per ogni sottoreparto si deve provvedere a un luogo(vedi MOC) o una stanza(vedi 
 
 Deve essereci una sala di referto medico per elaborazione dei dati da parte del medico.
 
+
 - - -
 
+## *Reparto risonanza magnetica*
+Questo sotto reparto è composto da una 
+
+sala assenso: composta da Scrivania, persona per far entrare il paziente nelle stanze della risonanza magnetica, pc e telefono. 
+
+Refertazione: composta da sala del medico, scrivania con pc più monitor, difanoscopio telefono e secchio
+
+Spogliatoio: dove il paziente lascerà tutti gli oggetti metallici e gli indumenti prima di entrare nella sala della della risonanza magnetica il quale avrà un tavolo,sedia, appendisbiti e secchio
+
+Deposito:per materiale vario:armadi vari,carta,gadolinio e secchio
+
+
+- - -
+
+## *Reparto risonanza magnetica*
+Sala della risonanza magnetica: risonanza magnetica più i vari accessori che servono a fare i vari esami, quindi più armadietti e iniettore per mdc
+
+Console: Scrivania del TSRM con pc e monitor per l'esaminatore dell'esame, parete a vetro per vedere il paziente,microfono e telecamera per comunicare e secchio
+
+Sala macchine : Varie apparecchiature inerenti alla risonanza, impianto quench 
+
+Tutto l'ambiente della risonanza magnetica è climatizzato.
+
+Oltre a tali stanze inserire 2 stanze: ufficio TSRM capo tecnico e ufficio medico dirigente radiologia entrambi con pc, telefono, scrivania, armadi vari, condizionatore, secchio, fax, fotocopiatrice e bagno.
+
+
+- - -
+
+## *Sala Artroscan*
+Risonanza magnetica che si usa per studiare solo le articolazioni
+
+scrivania del TSRM con pc per l'esecutore dell'esame e telefono,secchio, appendiabiti e sedia per paziente, artoscan con relativo lettino per l'esecuzione dell'esame, condizionatore, armadietti con materiale vario
+
+
+- - -
+
+## *Sala Tac*
+
+Condizionatore, bagno, zona controllata, spogliatoio paziente, tavolo con fornetto, iniettore, gantry con tavolo porta paziente attacco murale o bombola 2 armadi, vetro.
+
+Sala console: condizionatore, tavolo di comando con pc più monitor(3 monitor 1 per il risultato 1 per il macchinario e 1 per i dati del paziente) console dedicata alla ricostruzione delle immagini del monitor.
+
+Sala Refertazione del medico
+
+Sala d'attesa
+
+- - -
 ## Bibliografia
-brutta
+
+
+Wikipedia
 
 - - -
